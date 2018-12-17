@@ -1,4 +1,4 @@
-# Potree Converter
+# Potree Converter - Traduzindo Para Português
 
 Master: [![Build Status](https://travis-ci.org/potree/PotreeConverter.svg?branch=master)](https://travis-ci.org/potree/PotreeConverter)
 Develop: [![Build Status](https://travis-ci.org/potree/PotreeConverter.svg?branch=develop)](https://travis-ci.org/potree/PotreeConverter)
